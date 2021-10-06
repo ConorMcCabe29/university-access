@@ -19,7 +19,7 @@ end_fill()
 y = -50
 width = 240
 height = 25
-
+begin_fill()
 while width > 20:
 	width = width - 25 # Smaller higher it goes
 	x = 0 - width / 2 # start pos for x
@@ -32,6 +32,7 @@ while width > 20:
 		left(90)
 		forward(height)
 		left(90)
+		y = y + height # increasing in lvls
 end_fill()
 
-y = y + height # increasing in lvls
+
