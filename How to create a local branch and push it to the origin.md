@@ -12,12 +12,13 @@ After creating the local branch you need to move the file to the directory of th
 git checkout -b addMarkDownExample
 ```
 ## Checking what changes you've made
-This is for checking the status of what changes you've made 
+This is for checking the status of what changes you've made. 
 ```PowerShell
 git status
 ```
 ## Add a file to the branch
-Use the following to add the file in the directory to what will be committed
+Use the following to add the file in the directory to what will be committed.
+The ./ Is for the Windows OS ./ Is up directory in Unix based OS.
 ```PowerShell
 git add ./NAME_OF_FILE_HERE
 ```
