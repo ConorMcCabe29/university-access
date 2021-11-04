@@ -109,4 +109,3 @@ print("Current Time =", current_time)
 **[w3schools - Loops](www.w3schools.com)**
 **[Real Python - More loops](https://realpython.com/python-while-loop/)**
 **[StackoverFlow - Input printing](https://stackoverflow.com/questions/22917903/text-game-if-statement-based-of-input-text-python/34610789)**
-
