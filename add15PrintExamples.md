@@ -1,5 +1,5 @@
 ## 15 Different print statements 
-### Print is a very veratile command in python and there are many way to use it, shown below are 15 examples of the print statement being used.
+### Print is a very versatile command in python and there are many way to use it, shown below are 15 examples of the print statement being used.
 
 # Print a String
 To print a string in python you must place "" inside the brackets of the print statement.
